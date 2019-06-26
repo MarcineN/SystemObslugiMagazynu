@@ -44,4 +44,9 @@ Przedmiotem projektu jest system zarządzania i kontrolowania zawartości magazy
 System korzysta z graficznej biblioteki używanej w języku Java - Swing. Jest nowszą, ulepszoną wersją biblioteki AWT, pozwalającej między innymi na lepsze gospodarowanie zasobami.
 W pliku GUI.pdf znajduje się prezentacja graficznego interfejsu systemu.
 
+# Baza danych 
+
+Baza danych w oparciu o serwer MariaDB, składa się z 14 tabel połączonych ze sobą relacjami. 
+W pliku DataBase.pdf znajduje się prezentacja modelu encji bazy danych.
+
 # Projekt i wykonanie: Marcin Kos
