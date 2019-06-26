@@ -1,8 +1,8 @@
 # SystemObslugiMagazynu
 
-# Projekt został zrealizowany w ramach przedmiotu "Projekt programistyczny indywidualny" na Uniwersytecie Kardynała Stefana Wyszyńskiego w Warszawie. 
+Projekt został zrealizowany w ramach przedmiotu "Projekt programistyczny indywidualny" na Uniwersytecie Kardynała Stefana Wyszyńskiego w Warszawie. 
 
-# Przedmiotem projektu jest system zarządzania i kontrolowania zawartości magazynów, wykonany przy użyciu technologii bazodanowych MySQL oraz Javy JDK 1.8. System ma za zadanie ułatwiać obsługę związaną z przyjmowaniem i wydawaniem produktów, lokalizowaniem ich oraz aktualizacją inwentarzu. System umożliwia również wgląd na statystyki zarządzanych obiektów.
+Przedmiotem projektu jest system zarządzania i kontrolowania zawartości magazynów, wykonany przy użyciu technologii bazodanowych MySQL oraz Javy JDK 1.8. System ma za zadanie ułatwiać obsługę związaną z przyjmowaniem i wydawaniem produktów, lokalizowaniem ich oraz aktualizacją inwentarzu. System umożliwia również wgląd na statystyki zarządzanych obiektów.
 
 # Funkcjonalności systemu:
 
@@ -44,4 +44,4 @@
 System korzysta z graficznej biblioteki używanej w języku Java - Swing. Jest nowszą, ulepszoną wersją biblioteki AWT, pozwalającej między innymi na lepsze gospodarowanie zasobami.
 W pliku GUI.pdf znajduje się prezentacja graficznego interfejsu systemu.
 
-Projekt i wykonanie: Marcin Kos
+# Projekt i wykonanie: Marcin Kos
